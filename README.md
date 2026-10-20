@@ -25,5 +25,8 @@ Implantar e configurar um ambiente Linux completo com serviços web e banco de d
 - VirtualBox
 - HTML
 
+## Evidências
+As evidências das configurações realizadas encontram-se em /images e /docs
+
 ## Máquina Virtual:
 https://gvmail-my.sharepoint.com/:f:/g/personal/c3019089_fgv_edu_br/IgB0D-iS6MAtQZwQg-VJHedcAWCFHXm41myzMsYosz8IzmM?e=hHYAtD
