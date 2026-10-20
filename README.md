@@ -18,9 +18,9 @@ Implantar e configurar um ambiente Linux completo com serviços web e banco de d
 - Configuração de ambiente LAMP
 
 ## Tecnologias:
-### Linux
-### Apache
-### MySQL
-### PHP
-### VirtualBox
-### HTML
+- Linux
+- Apache
+- MySQL
+- PHP
+- VirtualBox
+- HTML
