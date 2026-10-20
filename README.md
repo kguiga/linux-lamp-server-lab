@@ -1,4 +1,6 @@
-# Projeto acadêmico desenvolvido na disciplina de Sistemas Operacionais da FGV.
+# linux-lamp-server-lab
+
+## Projeto acadêmico desenvolvido na disciplina de Sistemas Operacionais da FGV.
 
 ## Objetivo:
 Implantar e configurar um ambiente Linux completo com serviços web e banco de dados em máquina virtual.
