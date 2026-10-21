@@ -1,0 +1,16 @@
+Projeto Final de Sistemas Operacionais
+
+Ubuntu
+Usuário: karina
+Senha: karina123
+
+Debian
+Usuário: karina
+Senha: karina123
+
+Root Debian
+Usuário: root
+Senha: karina123
+
+Usuário: karina_web
+Senha: karina123
